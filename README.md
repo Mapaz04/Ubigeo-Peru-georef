@@ -1,5 +1,7 @@
 # Ubigeo-Peru-georef
 
-CSV con los datos de todos los distritos del Perú con su ubigeo y su ubicacion georeferencia.
+1. El script para generar las coordinadas está en **GeoLocal-Ubigeos.ipynb**. Se explica con comentarios el procedimientos.
 
-Fuente de ubigeo: https://www.mef.gob.pe/contenidos/presu_publ/anexos/Anexo1_DS222_2011.pdf
+2. Fuente de ubigeo: https://www.mef.gob.pe/contenidos/presu_publ/anexos/Anexo1_DS222_2011.pdf
+
+3. El CSV final con todos las coordinadas de los distritos del Perú 
